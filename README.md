@@ -1,2 +1,12 @@
-# gymshark-api-scraper
-Reverse engineered Gymshark Algolia API scraper built with Python. Extracts product data including title, price, image, and handle, then exports results to CSV.
+Gymshark API Scraper
+
+Features:
+- Reverse engineered Algolia API
+- Extracts product title, price, image, handle
+- Saves data to CSV
+- Handles nested JSON responses
+
+Tech:
+- Python
+- Requests
+- CSV
